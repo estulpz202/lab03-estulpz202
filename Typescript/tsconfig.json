@@ -8,6 +8,7 @@
     "moduleResolution": "node",
     "outDir": "dist",
     "lib": ["ES6","dom"],
-    "allowJs": true
+    "allowJs": true,
+    "skipLibCheck": true
   }
 }
